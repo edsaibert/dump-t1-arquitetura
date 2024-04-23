@@ -1,0 +1,16 @@
+0000 01 00 	branch on zero register		
+0001 imm 	branch on zero immeadiate
+0010 01 00 	jump register
+0011 imm 	jump immediate
+0100 01 00 	load
+0101 01 00 	store
+0110 01 00 	move register
+0111 imm  	move high
+1000 imm 	move low
+1001 01 00 	add
+1010 01 00 	sub
+1011 01 00 	and
+1100 01 00 	or
+1101 01 00 	not
+1110 01 00 	slr
+1111 01 00 	srr
